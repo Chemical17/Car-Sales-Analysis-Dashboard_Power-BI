@@ -8,3 +8,5 @@ Interactive Car Sales Analytics Dashboard built using Power BI to monitor sales 
   <img src="https://github.com/Chemical17/Car-Sales-Analysis-Dashboard_Power-BI/blob/7ba9dbc56dbd21d87842be534f597247c885290b/Details%20car%20sales.png" alt="Car Sales Dashboard" width="800"/>
 </div>
 
+
+[▶️ Watch Car Sales Analysis Dashboard Demo](https://github.com/Chemical17/Car-Sales-Analysis-Dashboard_Power-BI/blob/266f02ba73d5847861ce5f5a2c4424293b0dc2d9/Car%20Sales%20com%20Video.mp4)
